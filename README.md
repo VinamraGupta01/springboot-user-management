@@ -1,6 +1,6 @@
 # 🚀 Spring Boot User Management REST API
 
-A **production-style User Management REST API** built using **Spring Boot**, **Spring Data JPA**, and **MySQL**.  
+A **production-style User Management REST API** built using **Spring Boot**, **Spring Data JPA**, and **MySQL**. 
 This project follows **clean architecture principles**, uses **DTOs for API contracts**, and demonstrates how real backend services are structured in industry.
 
 ---
